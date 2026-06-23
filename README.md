@@ -1,4 +1,4 @@
-# ⚡ Git-Nostr Bridge 
+# ⚡ Git-Nostr Bridge (Previously Mechion)
 
 **Git collaboration, without the platform.**
 
